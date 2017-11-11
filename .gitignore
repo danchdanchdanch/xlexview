@@ -3,3 +3,4 @@ xlv
 .idea/
 cmake-build-debug/
 Makefile
+CMakeFiles/
