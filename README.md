@@ -8,7 +8,6 @@ Forked from https://github.com/lexview/xlexview
 - Add convertatiion to text and rich text format files
 
 **Current problems**
-
 - CMakeList X11 library specefied only for me
 
 **BUILDIN**
