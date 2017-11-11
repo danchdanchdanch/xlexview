@@ -1,2 +1,4 @@
 *.o
 xlv
+.idea/workspace.xml
+cmake-build-debug/
